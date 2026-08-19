@@ -1,10 +1,8 @@
 # Concise Book on Metasploit
 
-<img src="cover_image.jpeg" alt="Cover Image" width="500" >
+<img src="cover_image.jpeg" alt="Cover Image" width="100%" >
 
 ---
-
-
 
 ## Metasploit Framework: Practical Exploitation & Security Testing
 
